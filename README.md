@@ -1,4 +1,3 @@
-(Présentation en français, ci-dessous)
 Hello!
 
 After completing a seven-month training programm in web development that ended in June, and during which I learnt the basics of the LAMP stack, I am now looking for a work-study in France.
