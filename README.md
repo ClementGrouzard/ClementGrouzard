@@ -6,7 +6,7 @@ All web technologies look interesting to me, but I prioritize learning Symfony a
 
 I am looking forward to make my way in the very diverse world of tech.
 
-Clément.
+Clément
 
 
 Bonjour !
